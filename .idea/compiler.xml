@@ -9,5 +9,8 @@
         <module name="FirstSelen" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="FirstSelen" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
